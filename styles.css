@@ -1,15 +1,15 @@
 h1{
-  color:
+  color: blue;
 }
 h2{
-  color:
+  color: pink;
 }
 body{
-  text-align:
-  color:
-  font-style:
-  font-weight:
-  font-family: 
-  font-size:
-  line-height: 
+  text-align: left;
+  color: brown;
+  font-style: italic;
+  font-weight: 500;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: initial;
+  line-height: normal;
 }
